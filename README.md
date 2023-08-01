@@ -1,1 +1,2 @@
-# MachineLearning_Group3
+# Credit Score Classification with Machine Learning
+This project allows Banks and credit card companies calculate the credit score to determine the creditworthiness of the customers. It helps banks and credit card companies immediately to issue loans to customers with good creditworthiness. Using Machine Learning algorithms to classify all the customers in their database based on their credit history.
